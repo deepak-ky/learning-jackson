@@ -147,7 +147,6 @@ question
 
 ## `**_Why is deserialization working even though there are no setters?🤔_**`
 
-check
 ---
 
 ## 2. Mention Lombok
